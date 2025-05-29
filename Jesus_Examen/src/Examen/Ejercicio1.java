@@ -8,7 +8,7 @@ public class Ejercicio1 {
 		
 		System.out.print("Introduce una hora válida: ");
 		int hora = scan.nextInt();
-		
+		//HOLA LUCIA
 		if (hora < 0 || hora > 23){
 			System.out.println("Hora no válida.");
 		}else if(hora >= 6 && hora < 12) {
